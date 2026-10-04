@@ -1,0 +1,9 @@
+{
+  "name": "Mes lectures",
+  "short_name": "Mes lectures",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#009688",
+  "description": "Une petite app pour suivre ses lectures."
+}

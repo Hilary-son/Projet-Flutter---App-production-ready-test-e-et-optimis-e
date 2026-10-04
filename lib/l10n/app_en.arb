@@ -1,0 +1,27 @@
+{
+  "@@locale": "en",
+  "appTitle": "My Reads",
+  "emptyList": "No books yet. Add your first one!",
+  "addBook": "Add a book",
+  "bookTitle": "Title",
+  "bookAuthor": "Author",
+  "bookPages": "Number of pages",
+  "bookCover": "Cover URL (optional)",
+  "fieldRequired": "This field is required",
+  "invalidNumber": "Enter a number greater than 0",
+  "save": "Save",
+  "stats": "Statistics",
+  "settings": "Settings",
+  "language": "Language",
+  "delete": "Delete",
+  "pagesProgress": "{current} / {total} pages",
+  "@pagesProgress": {
+    "placeholders": {
+      "current": {"type": "int"},
+      "total": {"type": "int"}
+    }
+  },
+  "totalBooks": "Books in library",
+  "finishedBooks": "Books finished",
+  "pagesRead": "Pages read"
+}

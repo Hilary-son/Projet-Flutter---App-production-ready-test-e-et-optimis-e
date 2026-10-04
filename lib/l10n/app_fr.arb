@@ -1,0 +1,21 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Mes lectures",
+  "emptyList": "Aucun livre pour l'instant. Ajoute le premier !",
+  "addBook": "Ajouter un livre",
+  "bookTitle": "Titre",
+  "bookAuthor": "Auteur",
+  "bookPages": "Nombre de pages",
+  "bookCover": "URL de la couverture (facultatif)",
+  "fieldRequired": "Ce champ est obligatoire",
+  "invalidNumber": "Entre un nombre supérieur à 0",
+  "save": "Enregistrer",
+  "stats": "Statistiques",
+  "settings": "Réglages",
+  "language": "Langue",
+  "delete": "Supprimer",
+  "pagesProgress": "{current} / {total} pages",
+  "totalBooks": "Livres dans la bibliothèque",
+  "finishedBooks": "Livres terminés",
+  "pagesRead": "Pages lues"
+}
